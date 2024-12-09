@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap");
+
+.inconsolata-500 {
+  font-family: "Inconsolata", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.parentContainer {
+  display: flex;
+  gap: 1rem;
+  margin: 5rem auto 2rem auto;
+  background-image: url("../license-plate.webp");
+  max-width: 100%;
+  width: 500px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 287px;
+  justify-content: center;
+  align-items: center;
+
+  span {
+    cursor: pointer;
+    font-size: 6rem;
+    font-weight: bold;
+    padding: 1rem;
+    letter-spacing: -36px;
+  }
+}
+.parentContainer1 {
+  display: flex;
+  gap: 1rem;
+  /* margin: 5rem auto; */
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  width: 500px;
+  /* height: 287px; */
+  justify-content: center;
+  align-items: center;
+
+  span {
+    cursor: pointer;
+    font-size: 6rem;
+    font-weight: bold;
+    padding: 1rem;
+    letter-spacing: -36px;
+    width: 50px;
+    height: 50px;
+  }
+}
+p {
+  font-weight: bold;
+}
+
+.funnyContainer {
+  display: flex;
+  gap: 1rem;
+  margin: 5rem auto;
+
+  div {
+    cursor: pointer;
+    font-size: 2rem;
+    font-weight: bold;
+    border: 2px solid black;
+    padding: 1rem;
+  }
+
+  p {
+    font-weight: bold;
+    user-select: none;
+    touch-action: none;
+  }
+}
