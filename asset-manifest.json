@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/License-Plates/static/css/main.0d6359b4.css",
+    "main.js": "/License-Plates/static/js/main.c9d09415.js",
+    "static/js/453.ed3810f9.chunk.js": "/License-Plates/static/js/453.ed3810f9.chunk.js",
+    "static/media/license-plate.webp": "/License-Plates/static/media/license-plate.731f7e1e66bf8e6aaaf3.webp",
+    "index.html": "/License-Plates/index.html",
+    "main.0d6359b4.css.map": "/License-Plates/static/css/main.0d6359b4.css.map",
+    "main.c9d09415.js.map": "/License-Plates/static/js/main.c9d09415.js.map",
+    "453.ed3810f9.chunk.js.map": "/License-Plates/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d6359b4.css",
+    "static/js/main.c9d09415.js"
+  ]
+}
